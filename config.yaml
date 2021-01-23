@@ -1,4 +1,4 @@
-baseURL: https://example.com/
+baseURL: https://github.com/douglasamado/Blog-1.git/
 languageCode: en-us
 title: Douglas Amado
 theme: personal-web
@@ -9,7 +9,7 @@ enableRobotsTXT: yes
 pygmentsUseClasses: yes
 pygmentsCodeFences: yes
 params:
-  accentColor: '#FD3519'
+  accentColor: '#ff4500'
   assets:
     customCSS: ''
     favicon: ''
@@ -19,9 +19,9 @@ params:
     text: ''
   intro:
     main: 'Hi, I''m Douglas Amado :wave:'
-    sub: I'm a Entomologist and Bioinformatic
+    sub: I'm a Entomologist and Bioinformatics
   main:
-    latestPublishHeader: My Latest Project
+    latestPublishHeader: My Project
   mainSections: portfolio
   notFound:
     gopher: /images/gopher.png
@@ -39,11 +39,11 @@ params:
    # facebook: https://www.facebook.com/
     github: https://github.com/douglasamado/
    # gitlab: https://gitlab.com/
-    instagram: https://www.instagram.com/
+    #instagram: https://www.instagram.com/
     # keybase: https://keybase.io/
   #  linkedin: https://www.linkedin.com/in/
    # medium: https://medium.com/
-    twitter: https://twitter.com/
+    twitter: https://twitter.com/Douglas_amado/
    # youtube: https://www.youtube.com/
 taxonomies:
   design: designs
