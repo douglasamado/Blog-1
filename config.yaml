@@ -1,4 +1,4 @@
-baseURL: "https://github.com/douglasamado/Blog-1.git/"
+baseURL: https://github.com/douglasamado/Blog-1.git
 languageCode: en-us
 title: Douglas Amado
 theme: personal-web
