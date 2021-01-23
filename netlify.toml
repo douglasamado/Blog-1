@@ -11,4 +11,4 @@ command = "hugo -F -b $DEPLOY_PRIME_URL"
 command = "hugo -F -b $DEPLOY_PRIME_URL"
 [context.production]
 [context.production.environment]
-HUGO_ENV = false
+HUGO_ENV = "production"
